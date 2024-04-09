@@ -1,1 +1,1 @@
-# StochImag
+# **StochImag**
