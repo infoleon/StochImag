@@ -8,12 +8,11 @@
 ![Logo](png/exp_02.png)
 
 
+https://github.com/infoleon/StochImag/blob/main/png/exp_02.png
+
+
 <p align="center">
-  <a><img src="[https://github.com/infoleon/BD_PTF_Br/blob/main/logo/LOGO_plot_obs_predic.png](https://github.com/infoleon/StochImag/blob/main/png/exp_02.png)?raw=true" alt="Logo" width="300"/></a>
+  <a><img src="https://github.com/infoleon/StochImag/blob/main/png/exp_02.png?raw=true" alt="Logo" width="300"/></a>
 </p>
-
-
-
-
 
 
