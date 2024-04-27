@@ -5,7 +5,7 @@
 
 
 
-![Logo](png/exp_01.png)
+![Logo](png/exp_02.png)
 
 
 
