@@ -11,5 +11,5 @@
   <a><img src="https://github.com/infoleon/StochImag/blob/main/png/exp_04.png?raw=true" alt="Logo" width="500"/></a>
 </p>
 
-Under construction
+Under construction.<br>
 Soon, a more user friendly version will be uploaded.
